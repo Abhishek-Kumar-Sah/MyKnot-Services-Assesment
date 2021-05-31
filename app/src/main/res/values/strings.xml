@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">MyKnot Project</string>
+    <string name="buttonTextSuccess">Success</string>
+    <string name="title">Title</string>
+</resources>
